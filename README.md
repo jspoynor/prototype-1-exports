@@ -1,5 +1,5 @@
 # Prototype 1
-### camera swapping and player controls
+### Camera swapping and player controls
 This is the first prototype in a series of 8 that I will be making over the next 32 days.
 
 The purpose of this prototype is to figure out basic movement of 2d characters in a 3d environment
